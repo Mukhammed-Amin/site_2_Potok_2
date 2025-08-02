@@ -40,7 +40,7 @@ INSTALLED_APPS = [
 
     #apps
     'apps.base',
-    'apps.contact',
+    'apps.conact',
     'apps.gallery',
     'apps.team',
 ]
